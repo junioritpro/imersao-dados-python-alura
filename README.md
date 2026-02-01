@@ -22,7 +22,7 @@ Metodologia e abordagem:
 ✔️ Obtenção dos dados, realização de ETL, análise dos dados, criação do dashboard  
 ✔️ Disponibilização para utilização dos usuários finais, acompanhamento e testes recorrentes  
 
-Desafios e aprendizados: 
+Desafios e aprendizados:  
 ✔️ Sanitizar a base de dados e torná-la coerente, sem dados faltantes  
 ✔️ Como aprendizado, ficou o fato curioso, notou-se a discrepância entre cargos e salários  
 ✔️ Há cargos com maior senioridade, mas que dependendo do país, ou da qualificação do profissional do mesmo nível, por serem especialistas, influenciadores etc, ganham mais devido a sua notoriedade  
